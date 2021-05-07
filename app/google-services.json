@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664679403916",
+    "project_id": "onlinelogin-a35f5",
+    "storage_bucket": "onlinelogin-a35f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664679403916:android:4ec81e9e5d866b4199c6a9",
+        "android_client_info": {
+          "package_name": "com.example.onlinelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664679403916-ugtajk4epdnv4fbefsmod3mje3idna3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEsKzy4PaRW54CylqrU21aPnhE2Skx-uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664679403916-ugtajk4epdnv4fbefsmod3mje3idna3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
